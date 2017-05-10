@@ -18,15 +18,15 @@ avatar: "https://drive.google.com/open?id=0B4pOSf8D5rbhbk1ELVlkUE85Zzg"
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: "keonsu.jin@gmail.com"
-  facebook: "https://www.facebook.com/keonsu.jin"
+  email: keonsu.jin@gmail.com
+  facebook: https://www.facebook.com/keonsu.jin
   flickr:
-  github: "https://github.com/JinKeonsu/jinkeonsu.github.com"
+  github: https://github.com/JinKeonsu/jinkeonsu.github.com
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: "users/7849308/%EC%A7%84%EA%B1%B4%EC%88%98" # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
