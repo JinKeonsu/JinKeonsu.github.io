@@ -4,11 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+19년차에 접어든 개발자입니다.
+윈도우 데스크톱 어플리케이션 개발로 시작했고,
+최근에는 아이폰 앱 개발하는 일을 했습니다.
+앞으로는 인공지능 기반의 어플리케이션 개발을 해보고자 합니다.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Language: C/C++, Visual Basic, Visual C++, C#, Objective C, Swift, Python
 
 ### Contact me
 
