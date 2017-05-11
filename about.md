@@ -13,7 +13,10 @@ permalink: /about/
 
 ### More Information
 
-Language: C/C++, Visual Basic, Visual C++, C#, Objective C, Swift, Python
+##### Language: 
+* C/C++, Visual Basic, Visual C++, C# 
+* Objective C, Swift
+* Python
 
 
 
