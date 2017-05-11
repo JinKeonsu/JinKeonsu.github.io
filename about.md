@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+![마크다운 로고](https://raw.github.com/dcurtis/markdown-mark/master/png/208x128.png)
+
+
 19년차에 접어든 개발자입니다.<br/>
 윈도우 데스크톱 어플리케이션 개발을 시작으로,
 최근에는 아이폰 앱 개발을 했습니다.<br/>
