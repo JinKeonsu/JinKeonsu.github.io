@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![마크다운 로고](https://raw.github.com/dcurtis/markdown-mark/master/png/208x128.png)
+![머신러닝이미지](https://raw.githubusercontent.com/JinKeonsu/jekyll-now/master/images/machine_learning.png)
 
 
 19년차에 접어든 개발자입니다.<br/>
